@@ -1,0 +1,227 @@
+Last login: Wed Oct 12 18:28:11 on ttys002
+(base) macbookpro@WANGQiuting JS&CSS&HTML % git init
+Initialized empty Git repository in /Users/macbookpro/Desktop/JS&CSS&HTML/.git/
+(base) macbookpro@WANGQiuting JS&CSS&HTML % git add .
+(base) macbookpro@WANGQiuting JS&CSS&HTML % git add .
+(base) macbookpro@WANGQiuting JS&CSS&HTML % git commit -m "upload"
+[main (root-commit) 443364c] upload
+ 197 files changed, 10062 insertions(+)
+ create mode 100644 .DS_Store
+ create mode 100644 01Javascript_Fundamental/.DS_Store
+ create mode 100644 01Javascript_Fundamental/01_JS_fundamental.js
+ create mode 100755 01Javascript_Fundamental/Foundamental01.html
+ create mode 100644 02-HTML-Fundamentals/.DS_Store
+ create mode 100644 02-HTML-Fundamentals/blog.html
+ create mode 100644 02-HTML-Fundamentals/content.txt
+ create mode 100644 02-HTML-Fundamentals/img/challenges.jpg
+ create mode 100644 02-HTML-Fundamentals/img/laura-jones.jpg
+ create mode 100644 02-HTML-Fundamentals/img/post-img.jpg
+ create mode 100644 02-HTML-Fundamentals/img/related-1.jpg
+ create mode 100644 02-HTML-Fundamentals/img/related-2.jpg
+ create mode 100644 02-HTML-Fundamentals/img/related-3.jpg
+ create mode 100644 02-HTML-Fundamentals/index1.html
+ create mode 100644 02-JavaScriptFundamentalPart2/.DS_Store
+ create mode 100755 02-JavaScriptFundamentalPart2/02JavaScriptFundamentalPart2.js
+ create mode 100755 02-JavaScriptFundamentalPart2/index.html
+ create mode 100644 03-CSS-Fundamentals/.DS_Store
+ create mode 100644 03-CSS-Fundamentals/.Rhistory
+ create mode 100644 03-CSS-Fundamentals/blog.html
+ create mode 100644 03-CSS-Fundamentals/content.txt
+ create mode 100644 03-CSS-Fundamentals/img/challenges.jpg
+ create mode 100644 03-CSS-Fundamentals/img/laura-jones.jpg
+ create mode 100644 03-CSS-Fundamentals/img/post-img.jpg
+ create mode 100644 03-CSS-Fundamentals/img/related-1.jpg
+ create mode 100644 03-CSS-Fundamentals/img/related-2.jpg
+ create mode 100644 03-CSS-Fundamentals/img/related-3.jpg
+ create mode 100644 03-CSS-Fundamentals/index2.html
+ create mode 100644 03-CSS-Fundamentals/style.css
+ create mode 100644 04-CSS-Layout/.DS_Store
+ create mode 100644 04-CSS-Layout/blog.html
+ create mode 100644 04-CSS-Layout/content.txt
+ create mode 100644 04-CSS-Layout/css-grid.html
+ create mode 100644 04-CSS-Layout/flexbox.html
+ create mode 100644 04-CSS-Layout/img/challenges.jpg
+ create mode 100644 04-CSS-Layout/img/laura-jones.jpg
+ create mode 100644 04-CSS-Layout/img/post-img.jpg
+ create mode 100644 04-CSS-Layout/img/related-1.jpg
+ create mode 100644 04-CSS-Layout/img/related-2.jpg
+ create mode 100644 04-CSS-Layout/img/related-3.jpg
+ create mode 100644 04-CSS-Layout/index3.html
+ create mode 100644 04-CSS-Layout/style2.css
+ create mode 100644 05-Design/.DS_Store
+ create mode 100644 05-Design/WebDesignindex.html
+ create mode 100644 05-Design/WebDesignstyle.css
+ create mode 100644 05-Design/chair-1.jpg
+ create mode 100644 05-Design/chair-2.jpg
+ create mode 100644 05-Design/chair-3.jpg
+ create mode 100644 05-Design/customers.jpg
+ create mode 100644 05-Design/hero.jpg
+ create mode 160000 05Project1_GuessMyNumber
+ create mode 100644 06-Components/.DS_Store
+ create mode 100644 06-Components/01-accordin.html
+ create mode 100644 06-Components/02-Carousal.html
+ create mode 100644 06-Components/03-Table.html
+ create mode 100644 06-Components/04-Pagination.html
+ create mode 100644 06-Components/05-Hero.html
+ create mode 100644 06-Components/06-app-layout.html
+ create mode 100644 06-Components/Component.html
+ create mode 100644 06-Components/hero.jpg
+ create mode 100644 06-Components/maria.jpg
+ create mode 100644 07-Omnifood-Project/.DS_Store
+ create mode 100644 07-Omnifood-Project/Omnifood_index.html
+ create mode 100644 07-Omnifood-Project/content/.DS_Store
+ create mode 100644 07-Omnifood-Project/content/content.md
+ create mode 100644 07-Omnifood-Project/content/img/app/app-screen-1.png
+ create mode 100644 07-Omnifood-Project/content/img/app/app-screen-2.png
+ create mode 100644 07-Omnifood-Project/content/img/app/app-screen-3.png
+ create mode 100644 07-Omnifood-Project/content/img/customers/ben.jpg
+ create mode 100644 07-Omnifood-Project/content/img/customers/customer-1.jpg
+ create mode 100644 07-Omnifood-Project/content/img/customers/customer-2.jpg
+ create mode 100644 07-Omnifood-Project/content/img/customers/customer-3.jpg
+ create mode 100644 07-Omnifood-Project/content/img/customers/customer-4.jpg
+ create mode 100644 07-Omnifood-Project/content/img/customers/customer-5.jpg
+ create mode 100644 07-Omnifood-Project/content/img/customers/customer-6.jpg
+ create mode 100644 07-Omnifood-Project/content/img/customers/dave.jpg
+ create mode 100644 07-Omnifood-Project/content/img/customers/hannah.jpg
+ create mode 100644 07-Omnifood-Project/content/img/customers/steve.jpg
+ create mode 100644 07-Omnifood-Project/content/img/eating.jpg
+ create mode 100644 07-Omnifood-Project/content/img/favicon.png
+ create mode 100644 07-Omnifood-Project/content/img/gallery/gallery-1.jpg
+ create mode 100644 07-Omnifood-Project/content/img/gallery/gallery-10.jpg
+ create mode 100644 07-Omnifood-Project/content/img/gallery/gallery-11.jpg
+ create mode 100644 07-Omnifood-Project/content/img/gallery/gallery-12.jpg
+ create mode 100644 07-Omnifood-Project/content/img/gallery/gallery-2.jpg
+ create mode 100644 07-Omnifood-Project/content/img/gallery/gallery-3.jpg
+ create mode 100644 07-Omnifood-Project/content/img/gallery/gallery-4.jpg
+ create mode 100644 07-Omnifood-Project/content/img/gallery/gallery-5.jpg
+ create mode 100644 07-Omnifood-Project/content/img/gallery/gallery-6.jpg
+ create mode 100644 07-Omnifood-Project/content/img/gallery/gallery-7.jpg
+ create mode 100644 07-Omnifood-Project/content/img/gallery/gallery-8.jpg
+ create mode 100644 07-Omnifood-Project/content/img/gallery/gallery-9.jpg
+ create mode 100644 07-Omnifood-Project/content/img/hero.png
+ create mode 100644 07-Omnifood-Project/content/img/logos/business-insider.png
+ create mode 100644 07-Omnifood-Project/content/img/logos/forbes.png
+ create mode 100644 07-Omnifood-Project/content/img/logos/techcrunch.png
+ create mode 100644 07-Omnifood-Project/content/img/logos/the-new-york-times.png
+ create mode 100644 07-Omnifood-Project/content/img/logos/usa-today.png
+ create mode 100644 07-Omnifood-Project/content/img/meals/meal-1.jpg
+ create mode 100644 07-Omnifood-Project/content/img/meals/meal-2.jpg
+ create mode 100644 07-Omnifood-Project/content/img/omnifood-logo.png
+ create mode 100644 07-Omnifood-Project/css/.DS_Store
+ create mode 100644 07-Omnifood-Project/css/Omnifood_general.css
+ create mode 100644 07-Omnifood-Project/css/Omnifood_style.css
+ create mode 100644 08-Omnifood-Responsive/.DS_Store
+ create mode 100644 08-Omnifood-Responsive/content.md
+ create mode 100644 08-Omnifood-Responsive/css/general.css
+ create mode 100644 08-Omnifood-Responsive/css/queries.css
+ create mode 100644 08-Omnifood-Responsive/css/style.css
+ create mode 100644 08-Omnifood-Responsive/img/app/app-screen-1.png
+ create mode 100644 08-Omnifood-Responsive/img/app/app-screen-2.png
+ create mode 100644 08-Omnifood-Responsive/img/app/app-screen-3.png
+ create mode 100644 08-Omnifood-Responsive/img/customers/ben.jpg
+ create mode 100644 08-Omnifood-Responsive/img/customers/customer-1.jpg
+ create mode 100644 08-Omnifood-Responsive/img/customers/customer-2.jpg
+ create mode 100644 08-Omnifood-Responsive/img/customers/customer-3.jpg
+ create mode 100644 08-Omnifood-Responsive/img/customers/customer-4.jpg
+ create mode 100644 08-Omnifood-Responsive/img/customers/customer-5.jpg
+ create mode 100644 08-Omnifood-Responsive/img/customers/customer-6.jpg
+ create mode 100644 08-Omnifood-Responsive/img/customers/dave.jpg
+ create mode 100644 08-Omnifood-Responsive/img/customers/hannah.jpg
+ create mode 100644 08-Omnifood-Responsive/img/customers/steve.jpg
+ create mode 100644 08-Omnifood-Responsive/img/eating.jpg
+ create mode 100644 08-Omnifood-Responsive/img/favicon.png
+ create mode 100644 08-Omnifood-Responsive/img/gallery/gallery-1.jpg
+ create mode 100644 08-Omnifood-Responsive/img/gallery/gallery-10.jpg
+ create mode 100644 08-Omnifood-Responsive/img/gallery/gallery-11.jpg
+ create mode 100644 08-Omnifood-Responsive/img/gallery/gallery-12.jpg
+ create mode 100644 08-Omnifood-Responsive/img/gallery/gallery-2.jpg
+ create mode 100644 08-Omnifood-Responsive/img/gallery/gallery-3.jpg
+ create mode 100644 08-Omnifood-Responsive/img/gallery/gallery-4.jpg
+ create mode 100644 08-Omnifood-Responsive/img/gallery/gallery-5.jpg
+ create mode 100644 08-Omnifood-Responsive/img/gallery/gallery-6.jpg
+ create mode 100644 08-Omnifood-Responsive/img/gallery/gallery-7.jpg
+ create mode 100644 08-Omnifood-Responsive/img/gallery/gallery-8.jpg
+ create mode 100644 08-Omnifood-Responsive/img/gallery/gallery-9.jpg
+ create mode 100644 08-Omnifood-Responsive/img/hero.png
+ create mode 100644 08-Omnifood-Responsive/img/logos/business-insider.png
+ create mode 100644 08-Omnifood-Responsive/img/logos/forbes.png
+ create mode 100644 08-Omnifood-Responsive/img/logos/techcrunch.png
+ create mode 100644 08-Omnifood-Responsive/img/logos/the-new-york-times.png
+ create mode 100644 08-Omnifood-Responsive/img/logos/usa-today.png
+ create mode 100644 08-Omnifood-Responsive/img/meals/meal-1.jpg
+ create mode 100644 08-Omnifood-Responsive/img/meals/meal-2.jpg
+ create mode 100644 08-Omnifood-Responsive/img/omnifood-logo.png
+ create mode 100644 08-Omnifood-Responsive/index.html
+ create mode 100644 09-Omnifood-Optimizations/.DS_Store
+ create mode 100644 09-Omnifood-Optimizations/JS/.DS_Store
+ create mode 100644 09-Omnifood-Optimizations/JS/script.js
+ create mode 100644 09-Omnifood-Optimizations/content.md
+ create mode 100644 09-Omnifood-Optimizations/css/general.css
+ create mode 100644 09-Omnifood-Optimizations/css/queries.css
+ create mode 100644 09-Omnifood-Optimizations/css/style.css
+ create mode 100644 09-Omnifood-Optimizations/img/.DS_Store
+ create mode 100644 09-Omnifood-Optimizations/img/app/app-screen-1.png
+ create mode 100644 09-Omnifood-Optimizations/img/app/app-screen-2.png
+ create mode 100644 09-Omnifood-Optimizations/img/app/app-screen-3.png
+ create mode 100644 09-Omnifood-Optimizations/img/apple-touch-icon.png
+ create mode 100644 09-Omnifood-Optimizations/img/customers/ben.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/customers/customer-1.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/customers/customer-2.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/customers/customer-3.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/customers/customer-4.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/customers/customer-5.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/customers/customer-6.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/customers/dave.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/customers/hannah.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/customers/steve.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/eating.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/favicon-192.png
+ create mode 100644 09-Omnifood-Optimizations/img/favicon-512.png
+ create mode 100644 09-Omnifood-Optimizations/img/favicon.png
+ create mode 100644 09-Omnifood-Optimizations/img/gallery/gallery-1.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/gallery/gallery-10.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/gallery/gallery-11.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/gallery/gallery-12.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/gallery/gallery-2.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/gallery/gallery-3.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/gallery/gallery-4.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/gallery/gallery-5.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/gallery/gallery-6.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/gallery/gallery-7.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/gallery/gallery-8.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/gallery/gallery-9.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/hero min.png
+ create mode 100644 09-Omnifood-Optimizations/img/hero.png
+ create mode 100644 09-Omnifood-Optimizations/img/hero.webp
+ create mode 100644 09-Omnifood-Optimizations/img/logos/business-insider.png
+ create mode 100644 09-Omnifood-Optimizations/img/logos/forbes.png
+ create mode 100644 09-Omnifood-Optimizations/img/logos/techcrunch.png
+ create mode 100644 09-Omnifood-Optimizations/img/logos/the-new-york-times.png
+ create mode 100644 09-Omnifood-Optimizations/img/logos/usa-today.png
+ create mode 100644 09-Omnifood-Optimizations/img/meals/meal-1.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/meals/meal-2.jpg
+ create mode 100644 09-Omnifood-Optimizations/img/omnifood-logo.png
+ create mode 100644 09-Omnifood-Optimizations/index.html
+ create mode 100644 09-Omnifood-Optimizations/manifest.webmanifest
+(base) macbookpro@WANGQiuting JS&CSS&HTML % ssh-keygen -t ed25519 -C "118020390@link.cuhk.edu.cn"
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (/Users/macbookpro/.ssh/id_ed25519): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in 
+Your public key has been saved in 
+(base) macbookpro@WANGQiuting JS&CSS&HTML % git remote -v
+origin	git@github.com:QiutingWang/Web-Development.git (fetch)
+origin	git@github.com:QiutingWang/Web-Development.git (push)
+(base) macbookpro@WANGQiuting JS&CSS&HTML % git remote set-url origin https://github.com/QiutingWang/Web-Development.git
+(base) macbookpro@WANGQiuting JS&CSS&HTML % git push origin main --force
+Enumerating objects: 131, done.
+Counting objects: 100% (131/131), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (130/130), done.
+Writing objects: 100% (131/131), 6.88 MiB | 1.12 MiB/s, done.
+Total 131 (delta 24), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (24/24), done.
+To https://github.com/QiutingWang/Web-Development.git
+ + 1662929...443364c main -> main (forced update)
+(base) macbookpro@WANGQiuting JS&CSS&HTML % 
