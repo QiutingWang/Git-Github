@@ -2,7 +2,6 @@ Last login: Wed Oct 12 18:28:11 on ttys002
 (base) macbookpro@WANGQiuting JS&CSS&HTML % git init
 Initialized empty Git repository in /Users/macbookpro/Desktop/JS&CSS&HTML/.git/
 (base) macbookpro@WANGQiuting JS&CSS&HTML % git add .
-(base) macbookpro@WANGQiuting JS&CSS&HTML % git add .
 (base) macbookpro@WANGQiuting JS&CSS&HTML % git commit -m "upload"
 [main (root-commit) 443364c] upload
  197 files changed, 10062 insertions(+)
